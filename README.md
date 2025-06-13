@@ -1,4 +1,5 @@
 Global Sustainability Analytics - a complete data pipeline project
+![Data Pipeline](/pipeline.jpg)
 
 Data was extracted from the World Bank API using Python and processed into structured format. The pipeline separates data into fact and dimension tables to support analytical modeling and was written into a PostgreSQL database.
 
