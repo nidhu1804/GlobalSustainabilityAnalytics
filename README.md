@@ -8,6 +8,6 @@ The PostgreSQL instance was then connected to Tableau for dashboard development 
 
 📁 Project Components:
 Python ETL Script: Extracts World Bank indicators and loads them into PostgreSQL.
-(See: ExtractDataFromAPI.ipynb)
-Advanced SQL Queries: Details of queries and transformations performed in PostgreSQL. 
+(See: ExtractDataFromAPI.ipynb) <br>
+Advanced SQL Queries: Details of queries and transformations performed in PostgreSQL.  <br>
 Tableau Dashboard Screenshots: Tableau dashboards created to highlight insights, patterns and trends.
